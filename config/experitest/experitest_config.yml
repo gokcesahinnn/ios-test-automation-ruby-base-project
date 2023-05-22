@@ -1,0 +1,20 @@
+caps:
+  testName: 'Istegelsin iOS Automation'
+    accessKey: ""
+    deviceQuery: "@os='ios' and @version='8.1' and @category='PHONE'"
+    app: ""
+    platformName: "iOS"
+    releaseVersion: ""
+    fullReset: false
+    automationName: "XCUITest"
+    autoWebView: true
+    setWebContentsDebuggingEnabled: true
+    autoAcceptAlerts: true
+    locationServicesEnabled: true
+    autoGrantPermissions: true
+    newCommandTimeout: 800
+    appiumVersion: 1.22.2
+
+  appium_lib:
+    server_url: ""
+

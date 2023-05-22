@@ -1,0 +1,17 @@
+:caps:
+  :platformName: :ios
+  :deviceName: ""
+  :noReset: false
+  :fullReset: false
+  :automationName: "XCUITest"
+  :autoWebView: true
+  :setWebContentsDebuggingEnabled: true
+  :autoAcceptAlerts: true
+  :newCommandTimeout: 600
+  :bundleId: "com.google.chrome.ios"
+  :udid: ""
+  :platformVersion: ""
+  :useNewWDA: false
+
+:appium_lib:
+  :server_url: "http://127.0.0.1:4723/wd/hub"
